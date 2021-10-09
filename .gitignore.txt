@@ -4,6 +4,9 @@
 .SIMS/inventory/__pycache__/
 .SIMS/SIMS/__pycache__/
 .SIMS/db.sqlite3
+.Scripts/
+.Lib/
+.Include/
 
 
 # Byte-compiled / optimized / DLL files
@@ -117,9 +120,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-Scripts/
-Lib/
-Include/
 
 # Spyder project settings
 .spyderproject
